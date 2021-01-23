@@ -1,29 +1,20 @@
 {
   "files": {
-    "main.css": "/abw/static/css/main.60796cc1.chunk.css",
-    "main.js": "/abw/static/js/main.5f24c068.chunk.js",
-    "main.js.map": "/abw/static/js/main.5f24c068.chunk.js.map",
-    "runtime-main.js": "/abw/static/js/runtime-main.ab69a922.js",
-    "runtime-main.js.map": "/abw/static/js/runtime-main.ab69a922.js.map",
-    "static/js/2.fcf7105e.chunk.js": "/abw/static/js/2.fcf7105e.chunk.js",
-    "static/js/2.fcf7105e.chunk.js.map": "/abw/static/js/2.fcf7105e.chunk.js.map",
-    "index.html": "/abw/index.html",
-    "static/css/main.60796cc1.chunk.css.map": "/abw/static/css/main.60796cc1.chunk.css.map",
-    "static/js/2.fcf7105e.chunk.js.LICENSE.txt": "/abw/static/js/2.fcf7105e.chunk.js.LICENSE.txt",
-    "static/media/ABW_logo.bbc89683.svg": "/abw/static/media/ABW_logo.bbc89683.svg",
-    "static/media/Doordash.77791983.svg": "/abw/static/media/Doordash.77791983.svg",
-    "static/media/Grubhub.38bf3959.svg": "/abw/static/media/Grubhub.38bf3959.svg",
-    "static/media/Uber-Eats.271d9c02.svg": "/abw/static/media/Uber-Eats.271d9c02.svg",
-    "static/media/clock.69e7b9a4.svg": "/abw/static/media/clock.69e7b9a4.svg",
-    "static/media/facebook.ac6f2ac8.svg": "/abw/static/media/facebook.ac6f2ac8.svg",
-    "static/media/instagram.58dc3faa.svg": "/abw/static/media/instagram.58dc3faa.svg",
-    "static/media/map-pin.b8b0499b.svg": "/abw/static/media/map-pin.b8b0499b.svg",
-    "static/media/phone.d059591c.svg": "/abw/static/media/phone.d059591c.svg"
+    "main.css": "/static/css/main.60796cc1.chunk.css",
+    "main.js": "/static/js/main.2175e88e.chunk.js",
+    "main.js.map": "/static/js/main.2175e88e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.46fab452.js",
+    "runtime-main.js.map": "/static/js/runtime-main.46fab452.js.map",
+    "static/js/2.fcf7105e.chunk.js": "/static/js/2.fcf7105e.chunk.js",
+    "static/js/2.fcf7105e.chunk.js.map": "/static/js/2.fcf7105e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.60796cc1.chunk.css.map": "/static/css/main.60796cc1.chunk.css.map",
+    "static/js/2.fcf7105e.chunk.js.LICENSE.txt": "/static/js/2.fcf7105e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab69a922.js",
+    "static/js/runtime-main.46fab452.js",
     "static/js/2.fcf7105e.chunk.js",
     "static/css/main.60796cc1.chunk.css",
-    "static/js/main.5f24c068.chunk.js"
+    "static/js/main.2175e88e.chunk.js"
   ]
 }
