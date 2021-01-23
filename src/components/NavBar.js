@@ -1,5 +1,4 @@
 import React from 'react'
-import abwLogo from '../assets/images/logos/ABW_logo.svg'
 
 import { Navbar, Nav, Button } from 'react-bootstrap'
 import smoothscroll from 'smoothscroll-polyfill'
@@ -17,7 +16,7 @@ const scrollTo = (ele) => {
 export default function NavBar() {
     return(
         <Navbar className="navbar" collapseOnSelect expand="lg">
-            <img src={abwLogo} alt='abw-logo' style={{ width: '182px', height: '70px' }} />
+            <img src='https://res.cloudinary.com/dw8damfxa/image/upload/v1611387760/ABW/LOGOS/ABW_logo_e2szkq.svg' alt='abw-logo' style={{ width: '182px', height: '70px' }} />
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto navbar-nav">
