@@ -8,7 +8,7 @@ const ModalText = () => {
       <p className="md-info">
       At America's Best Wings, you can place your order online for pickup in store. Alternatively, you can have America’s best wings delivered right to your doorsteps through one of delivery partners. Order online now!
       </p>
-      <a href='https://www.clover.com/online-ordering/americas-best-wings-silver-spring' rel='noreferrer' target='_blank'><button className='md-link-icon-clover'>ORDER ONLINE & PICKUP</button></a>
+      <a href='https://www.clover.com/online-ordering/americas-best-wings-silver-spring' rel='noreferrer' target='_blank'><button className='md-link-icon-clover'>ORDER ONLINE FOR PICKUP OR DELIVERY</button></a>
       <div className="md-link">
       <div className="md-link-box">
             <a className="" href="https://www.grubhub.com/restaurant/americas-best-wings-11242-georgia-ave-silver-spring/2522990?classicAffiliateId=%2Fr%2Fw%2F2522990%2F&utm_source=https://restaurant.grubhub.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=2522990" rel='noreferrer' target='_blank'>
