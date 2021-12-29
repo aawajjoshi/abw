@@ -37,7 +37,7 @@ const ModalText = () => {
                 />
             </a>
         </div>
-        <div className="md-link-box">
+        {/* <div className="md-link-box">
             <a className="" href="https://eat.chownow.com/discover/restaurant/43450/americas-best-wings-wheaton-11242-georgia-ave-silver-spring" rel='noreferrer' target='_blank'>
                 <img
                 src='https://res.cloudinary.com/dw8damfxa/image/upload/v1618184611/ABW/LOGOS/Chownow_vxvh3x.svg'
@@ -45,7 +45,7 @@ const ModalText = () => {
                 className='md-link-icon'
                 />
             </a>
-        </div>
+        </div> */}
       </div>
     </div>
   );
