@@ -75,15 +75,6 @@ const Menu = () => {
                     />
                 </a>
             </div>
-            {/* <div className="feature-link-icon-box">
-                <a className="" href="https://eat.chownow.com/discover/restaurant/43450/americas-best-wings-wheaton-11242-georgia-ave-silver-spring" rel='noreferrer' target='_blank'>
-                    <img
-                    src='https://res.cloudinary.com/dw8damfxa/image/upload/v1618184611/ABW/LOGOS/Chownow_vxvh3x.svg'
-                    alt="doordash-logo"
-                    className='md-link-icon'
-                    />
-                </a>
-            </div> */}
           </div>
 
         </div>
