@@ -45,7 +45,7 @@ const Menu = () => {
             ORDER NOW
           </h3>
 
-          <a href='https://www.clover.com/online-ordering/americas-best-wings-silver-spring' rel='noreferrer' target='_blank'><button className='feature-button feature-order-btn'>ORDER ONLINE & PICKUP</button></a>
+          <a href='https://www.clover.com/online-ordering/americas-best-wings-silver-spring-2' rel='noreferrer' target='_blank'><button className='feature-button feature-order-btn'>ORDER ONLINE & PICKUP</button></a>
 
           <div id="order" className='feature-link-icon'>
           <div className="feature-link-icon-box">
@@ -71,6 +71,15 @@ const Menu = () => {
                     <img
                     src='https://res.cloudinary.com/dw8damfxa/image/upload/v1611387759/ABW/LOGOS/Doordash_yfdell.svg'
                     alt="doordash-logo"
+                    className='md-link-icon'
+                    />
+                </a>
+            </div>
+            <div className="feature-link-icon-box">
+                <a className="" href="https://www.ezcater.com/catering/pvt/americas-best-wings-4" rel='noreferrer' target='_blank'>
+                    <img
+                    src='https://res.cloudinary.com/dw8damfxa/image/upload/v1667634151/ABW/LOGOS/ezCater_Logo_upvoq1.jpg'
+                    alt="ezcater-logo"
                     className='md-link-icon'
                     />
                 </a>
