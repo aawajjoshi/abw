@@ -45,7 +45,7 @@ const Menu = () => {
             ORDER NOW
           </h3>
 
-          <a href='https://www.clover.com/online-ordering/americas-best-wings-silver-spring-2' rel='noreferrer' target='_blank'><button className='feature-button feature-order-btn'>ORDER ONLINE & PICKUP</button></a>
+          <a href='https://online.skytab.com/e330478ad33cb615b2da04348fee8296' rel='noreferrer' target='_blank'><button className='feature-button feature-order-btn'>ORDER ONLINE & PICKUP</button></a>
 
           <div id="order" className='feature-link-icon'>
           <div className="feature-link-icon-box">
